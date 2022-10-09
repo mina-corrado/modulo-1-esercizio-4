@@ -1,0 +1,151 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    background-color: black;
+    padding: 10px;
+    padding-left: 20px;
+    
+    
+    
+}
+.logo img{
+    height: 20px;
+}
+.text-center {
+text-align:center;
+width:100%;
+}
+.bg-dark {
+    color: #eaeded;
+    background-color:#222f3e;
+}
+    
+.bg-yellow {
+    color: #eaeded;
+    background-color:#f56600;
+}
+    
+.py-1 {
+    padding: 1rem 0;
+}
+    
+.container {
+    margin: 20px
+    
+
+}
+.regali img {
+    width: 100%;
+    
+
+}
+.regali {
+    background-image:url('./assets/bg-image.png');
+    height: 160px;
+    color:white;
+    padding-top: 50px;
+    
+    
+
+}
+
+.primafila {
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 25px;
+
+
+    
+}
+.primafila img {
+
+    
+     width: 20%;
+     height:300px;
+     margin-top: 2px;
+     margin-right: 2%;
+     margin-left: 2%;
+     margin-bottom: 1%;
+     
+     
+
+}
+.secondo img {
+    
+    height: 422px;
+    width: 100%;
+
+
+
+}
+.terzo img {
+    
+    height: 425px;
+    width: 100%;
+
+
+}
+.footer img {
+ 
+height: 40px;
+ 
+}
+.text-center {
+    text-align:center;
+    width:100%;
+}
+
+.footer {
+    background-color: black;
+    padding-top:  40px;
+    padding-bottom: 40px;
+
+}
+.my-1 {
+
+    margin-top: 30px;
+    margin-bottom: 30px; 
+}
+
+.primafila p {
+    margin: 4px;
+
+}
+.altriregali {
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+
+}
+.musicali, 
+.abiti,
+.oggettiutili,
+.piccolidoni {
+    width: 25%;
+    padding: 10px;
+    
+    
+
+}
+.musicali div,
+.abiti div,
+.oggettiutili div,
+.piccolidoni div{
+width: 46%;
+padding: 2px;
+display:inline-block;
+
+
+
+}
+.musicali div img,
+.abiti  div img,
+.oggettiutili div img,
+.piccolidoni div img
+
+{
+    width: 100%;
+}
+
